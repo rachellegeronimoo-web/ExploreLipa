@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400938292831",
+    "project_id": "explore-lipa-1b61e",
+    "storage_bucket": "explore-lipa-1b61e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400938292831:android:9aaeb325c11055a54dedea",
+        "android_client_info": {
+          "package_name": "com.example.explore_lipa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB0hdeViuhPrI82vafh68phWT5-i8rOG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
